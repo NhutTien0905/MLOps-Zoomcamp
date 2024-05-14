@@ -1,0 +1,1 @@
+In this homework, we need to take a look about datatype. Raw data have over 3m sample, we need to convert into suitable datatype to avoid OOM, in my case is convert into float32.
